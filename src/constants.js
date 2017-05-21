@@ -1,4 +1,4 @@
-const FILTERS_BASE_URL = 'https://pandafulmanda.github.io/needs-hou-quick-data/';
+const FILTERS_BASE_URL = 'https://thegoodhoustonians.github.io/needs-hou-quick-data/';
 
 const CONSTANTS = {FILTERS_BASE_URL};
 
